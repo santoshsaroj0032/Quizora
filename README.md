@@ -1,4 +1,4 @@
-# LectureIQ - Video Lecture Processor
+# Quizora - Video Lecture Processor
 
 LectureIQ is a sophisticated web application that transforms video lectures into interactive learning materials. It automatically transcribes video content and generates multiple-choice questions (MCQs) for every 5-minute segment, making it an invaluable tool for educators and students.
 
