@@ -115,9 +115,3 @@ lectureiq/
 │   └── migrations/   # Database migrations
 └── public/          # Static assets
 ```
-<<<<<<< HEAD
- 
-=======
-
- 
->>>>>>> d51b100659c1f25dd8edfebd287cf2519e012b83
