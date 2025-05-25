@@ -1,4 +1,4 @@
-# Quizora - Video Lecture Processor
+# Quizora – Smart Lecture Video Transcription & Quiz Generator
 
 Quizora is an innovative web app designed to convert your video lectures into engaging learning tools. It seamlessly transcribes the audio and creates multiple-choice quizzes for every five-minute segment, helping both teachers and learners study more effectively and interactively.
 
