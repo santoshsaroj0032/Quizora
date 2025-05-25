@@ -116,7 +116,4 @@ lectureiq/
 └── public/          # Static assets
 ```
 
-## Contact
-
-For questions or support, contact:
-- Email: namarnadh.9@gmail.com
+ 
