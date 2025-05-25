@@ -12,6 +12,21 @@ LectureIQ is a sophisticated web application that transforms video lectures into
 - **Privacy-Focused**: All processing happens locally, ensuring data privacy
 - **Real-time Progress**: Live status updates during processing
 
+
+## Some SnapShot Of the Project
+![image](https://github.com/user-attachments/assets/f30980f6-9a9d-4b46-86a2-3864373ac06f)
+![image](https://github.com/user-attachments/assets/271249ba-96f5-42ce-b2a6-e1b7a3953da5)
+![image](https://github.com/user-attachments/assets/b9e0ed99-69cb-48d1-bd99-e2c8b1e6aa5d)
+![image](https://github.com/user-attachments/assets/cc8e360a-8adb-4ebf-b9c3-513278e0e9a5)
+
+
+
+
+
+
+
+
+
 ## Tech Stack
 
 ### Frontend
