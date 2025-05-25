@@ -130,12 +130,8 @@ function App() {
         </main>
         <footer className="py-6 border-t border-gray-200">
           <div className="container mx-auto px-4 text-center text-gray-500 text-sm">
-            <p>© {new Date().getFullYear()} LectureIQ. All rights reserved.</p>
-            <p className="mt-1">
-              <a href="mailto:namarnadh.9@gmail.com" className="text-primary-600 hover:text-primary-700">
-                namarnadh.9@gmail.com
-              </a>
-            </p>
+            <p>© {new Date().getFullYear()} Quizora. All rights reserved.</p>
+            
           </div>
         </footer>
       </div>
