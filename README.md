@@ -1,16 +1,15 @@
 # Quizora - Video Lecture Processor
 
-LectureIQ is a sophisticated web application that transforms video lectures into interactive learning materials. It automatically transcribes video content and generates multiple-choice questions (MCQs) for every 5-minute segment, making it an invaluable tool for educators and students.
+Quizora is an innovative web app designed to convert your video lectures into engaging learning tools. It seamlessly transcribes the audio and creates multiple-choice quizzes for every five-minute segment, helping both teachers and learners study more effectively and interactively.
 
 ## Features
-
-- **Video Upload**: Support for MP4 video files with a user-friendly drag-and-drop interface
-- **Automatic Transcription**: Uses Whisper AI for accurate speech-to-text conversion
-- **MCQ Generation**: AI-powered generation of relevant multiple-choice questions
-- **Segmented Processing**: Breaks down lectures into 5-minute segments for better organization
-- **Export Options**: Export transcripts and questions in JSON or PDF formats
-- **Privacy-Focused**: All processing happens locally, ensuring data privacy
-- **Real-time Progress**: Live status updates during processing
+- **Easy Video Upload**: Upload MP4 files effortlessly using a drag-and-drop interface  
+- **Smart Transcription**: Accurate speech-to-text conversion powered by Whisper AI  
+- **AI-Driven Quiz Creation**: Automatically generates relevant multiple-choice questions  
+- **Lecture Segmentation**: Breaks videos into 5-minute segments for better organization  
+- **Flexible Export Options**: Export transcripts and quizzes as JSON or PDF files  
+- **Privacy First**: All processing happens locally on your machine, keeping your data secure  
+- **Live Progress Tracking**: Real-time updates on the status of video processing 
 
 
 ## Some SnapShot Of the Project
