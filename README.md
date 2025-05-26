@@ -57,7 +57,7 @@ Quizora is an innovative web app designed to convert your video lectures into en
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd lectureiq
+   cd Quizora
    ```
 
 2. Install dependencies:
